@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 09 de dezembro de 2019 ###
+### Dia 1: 09 de dezembro de 2019 ###
 
 **Progresso de hoje**: Fiz um exercício do [freecodecamp](https://www.freecodecamp.org/) e construir uma página usuando somente HTML.
 
