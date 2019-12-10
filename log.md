@@ -8,3 +8,10 @@
 
 **Links do projeto:** [Hello world](https://github.com/Jonathan220/hello-world), [página  em HTML](https://github.com/Jonathan220/Estrutura-basica-html)
 
+### Dia 2: 10 de dezembro de 2019 ###
+
+**Progresso de hoje:** Construir uma página em html testando o uso de links a anchors.
+
+**Pensamentos:** Devido ao pouco tempo hoje programei somente 30 minutos. Mas foi o suficiente para praticar.
+
+**Links do projeto:** [texto com link](https://github.com/Jonathan220/texto-com-link)
