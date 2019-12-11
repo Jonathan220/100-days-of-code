@@ -15,3 +15,11 @@
 **Pensamentos:** Devido ao pouco tempo hoje programei somente 30 minutos. Mas foi o suficiente para praticar.
 
 **Links do projeto:** [texto com link](https://github.com/Jonathan220/texto-com-link)
+
+### Dia 3: 11 de dezembro de 2019 ###
+
+**Progresso de hoje:** Construí uma página em HTML utilizando tags para formatar o texto e usando links e anchors dentro da página.
+
+**Pensamentos:** Estou conseguindo até agora manter o ritmo, apesar dos compromissos.
+
+**links do projeto:** [texto formatado](https://github.com/Jonathan220/texto-formatado).
