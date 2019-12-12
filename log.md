@@ -23,3 +23,11 @@
 **Pensamentos:** Estou conseguindo até agora manter o ritmo, apesar dos compromissos.
 
 **links do projeto:** [texto formatado](https://github.com/Jonathan220/texto-formatado).
+
+### Dia 4: 12 de dezembro de 2019 ###
+
+**Progresso de hoje:** Iniciei um novo projeto de pagina que vai aos poucos ser incrementada.
+
+**Pensamentos:** A partir de hoje vou começar a fazer projetos um pouco mais elaborados.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
