@@ -31,3 +31,11 @@
 **Pensamentos:** A partir de hoje vou começar a fazer projetos um pouco mais elaborados.
 
 **links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 5: 13 de dezembro de 2019 ###
+
+**Progresso de hoje:** Construir mais algumas páginas no projeto [página PMBOK], incluindo css.
+
+**Pensamentos:** Hoje eu tive mais tempo para trabalhar.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
