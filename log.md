@@ -34,8 +34,16 @@
 
 ### Dia 5: 13 de dezembro de 2019 ###
 
-**Progresso de hoje:** Construir mais algumas páginas no projeto [página PMBOK], incluindo css.
+**Progresso de hoje:** Construi mais algumas páginas no projeto [página PMBOK], incluindo css.
 
 **Pensamentos:** Hoje eu tive mais tempo para trabalhar.
 
 **links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 6: 14 de dezembro de 2019 ###
+
+**Progresso de hoje:** Construção da página _sobre_ do projeto 'página PMBOK' e realização de alguns exercícios do [freecodecamp](https://www.freecodecamp.org/learn).
+
+**Pensamentos:** Hoje tive alguns contratempos mas consegui fazer algumas coisas. Preciso avançar meu conhecimento sobre css.
+
+**links do projeto:**[página PMBOK](https://github.com/Jonathan220/pagina-pmbok). [Exercícios do freecodecamp](https://github.com/Jonathan220/desafios-freecodecamp).
