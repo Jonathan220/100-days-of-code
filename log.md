@@ -46,4 +46,12 @@
 
 **Pensamentos:** Hoje tive alguns contratempos mas consegui fazer algumas coisas. Preciso avançar meu conhecimento sobre css.
 
-**links do projeto:**[página PMBOK](https://github.com/Jonathan220/pagina-pmbok). [Exercícios do freecodecamp](https://github.com/Jonathan220/desafios-freecodecamp).
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok). [Exercícios do freecodecamp](https://github.com/Jonathan220/desafios-freecodecamp).
+
+### Dia 7: 16 de dezembro de 2019 ###
+
+**Progresso de hoje:** Mais adições no projeto 'página pmbok', e inicio de um novo projeto.
+
+**Pensamentos:** Preciso de anvançar no estudo de CSS.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
