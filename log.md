@@ -55,3 +55,11 @@
 **Pensamentos:** Preciso de anvançar no estudo de CSS.
 
 **links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 8: 19 de dezembro de 2019 ###
+
+**progresso:** Algumas altereções no css do projeto página pmbok.
+
+**Pensamentos:** Tive pouco tempo para programar hoje. Essa semana tá dificil devido ao grande número de tarefas.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
