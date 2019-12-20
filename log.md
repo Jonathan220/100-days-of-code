@@ -63,3 +63,11 @@
 **Pensamentos:** Tive pouco tempo para programar hoje. Essa semana tá dificil devido ao grande número de tarefas.
 
 **links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 9: 20 de dezembro de 2019 ###
+
+**Progresso:** Customização dos links, header e paragrafos.
+
+**Pensamentos:** Finalmente consegui trabalhar bastante no projeto depois de uma semana cheia.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
