@@ -71,3 +71,11 @@
 **Pensamentos:** Finalmente consegui trabalhar bastante no projeto depois de uma semana cheia.
 
 **links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 10: 21 de dezembro de 2019 ###
+
+**Progresso:** Customização do nav do projeto 'página pmbok'. E construção de um novo projeto.
+
+**Pensamentos:** Hoje trabalhei um pouco mais e passei a construir uma nova página com a ajuda do lorem ipsum.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok). [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
