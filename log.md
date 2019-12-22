@@ -79,3 +79,11 @@
 **Pensamentos:** Hoje trabalhei um pouco mais e passei a construir uma nova página com a ajuda do lorem ipsum.
 
 **links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok). [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+
+### Dia 11: 22 de dezembro de 2019 ###
+
+**Progresso:** Customização do nav com uso do display e pseudo-classe hover.
+
+**Pensamentos:** Hoje consegui arranjar um tempo para programar. Tenho que avançar ainda mais em css e criação de layout.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
