@@ -87,3 +87,11 @@
 **Pensamentos:** Hoje consegui arranjar um tempo para programar. Tenho que avançar ainda mais em css e criação de layout.
 
 **links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 12: 23 de dezembro de 2019 ###
+
+**Progresso:** Efeito de sombra e ajuste de efeitos nos links e nos textos da página.
+
+**Pensamentos:** Acredito ter terminado o projeto página pmbok. Futuramente talvez adicione mais efeitos, conforme o estudo for avançando.
+
+**links do projeto:**  [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
