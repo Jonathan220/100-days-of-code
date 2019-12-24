@@ -95,3 +95,12 @@
 **Pensamentos:** Acredito ter terminado o projeto página pmbok. Futuramente talvez adicione mais efeitos, conforme o estudo for avançando.
 
 **links do projeto:**  [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 13: 24 de dezembro de 2019 ###
+
+**Progresso:** Modificação na imagem do projeto página pmbok e inicio da construção de um novo projeto.
+
+**Pensamentos:** Finalmente estou sentindo que estou produzindo algo com o pouco conhecimento que adquirir. O próximo passo é aprender a fazer certas funcionalidades em algumas páginas.
+
+**links do projeto:** [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+ [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
