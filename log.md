@@ -111,4 +111,12 @@
 
 **Pensamentos:** Estou começando a avançar mais em css.
 
-**links do projeto:**  [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+**links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+
+### Dia 15: 27 de dezembro de 2019 ###
+
+**Progresso:** Adição de imagens e alguns testes com float.
+
+**Pensamentos:** Mais um dia, mais um código.
+
+**links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
