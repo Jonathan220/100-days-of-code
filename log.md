@@ -120,3 +120,12 @@
 **Pensamentos:** Mais um dia, mais um código.
 
 **links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+
+### Dia 15-16: 29-30 de dezembro de 2019 ###
+
+**Progresso:** Término da estrutura do site path of exile e adição de efeito às páginas do site pmbok.
+
+**Pensamentos:** Aproveitei para praticar a construção de tabelas. Tenho que trabalhar as cores do site e layouts diferentes.
+
+**links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+[página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
