@@ -129,3 +129,11 @@
 
 **links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
 [página PMBOK](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 17: 31 de dezembro de 2019 ###
+
+**Progresso:** Adição de mais imagens aos projeto página path of exile.
+
+**Pensamentos:** Aos poucos vou avançando nos estudos. Só preciso prender a construir alguns elementos usados em sites famosos.
+
+**Links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
