@@ -137,3 +137,11 @@
 **Pensamentos:** Aos poucos vou avançando nos estudos. Só preciso prender a construir alguns elementos usados em sites famosos.
 
 **Links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+
+### Dia 18: 32 de dezembro de 2019 ###
+
+**Progresso:** Ajuste do nav com os conehcimentos de position adquiridos recentemente.
+
+**Pensamentos:** Tive novas ideias para construção de páginas.
+
+**Links de projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
