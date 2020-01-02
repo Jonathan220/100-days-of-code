@@ -138,10 +138,18 @@
 
 **Links do projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
 
-### Dia 18: 32 de dezembro de 2019 ###
+### Dia 18: 01 de janeiro de 2020 ###
 
 **Progresso:** Ajuste do nav com os conehcimentos de position adquiridos recentemente.
 
 **Pensamentos:** Tive novas ideias para construção de páginas.
 
 **Links de projeto:** [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+
+### Dia 19: 02 de janeiro de 2020 ###
+
+**Progresso:** Adição de cor e efeitos aos links da página.
+
+**Pnsamentos:** O site não está muito bonito, mas nos próximos estará. Devo adicionar imagens de fundo.
+
+**links do projeto:**  [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
