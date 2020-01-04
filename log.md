@@ -150,6 +150,22 @@
 
 **Progresso:** Adição de cor e efeitos aos links da página.
 
-**Pnsamentos:** O site não está muito bonito, mas nos próximos estará. Devo adicionar imagens de fundo.
+**Pensamentos:** O site não está muito bonito, mas nos próximos estará. Devo adicionar imagens de fundo.
 
 **links do projeto:**  [página path of exile](https://github.com/Jonathan220/path-of-exile-pagina).
+
+### Dia 20: 03 de janeiro de 2020 ###
+
+**Progresso:** Algumas modificações no README do projeto [página pmbok](https://github.com/Jonathan220/pagina-pmbok) e criação de um novo projeto.
+
+**Pensamentos:** Hoje não tive muito tempo para trabalhar no site. Mas amnhã vai ser tranquilo.
+
+**links do projeto:** [página pmbok](https://github.com/Jonathan220/pagina-pmbok).
+
+### Dia 21: 04 de janeiro de 2020 ###
+
+**Progresso:** Inicio de construção de uma nova página web.
+
+**Pensamentos:** Avancei bastante hoje. Estou empolgado com este novo projeto.
+
+**links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
