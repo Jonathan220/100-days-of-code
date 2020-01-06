@@ -169,3 +169,11 @@
 **Pensamentos:** Avancei bastante hoje. Estou empolgado com este novo projeto.
 
 **links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
+
+### Dia 22: 06 de janeiro de 2020 ###
+
+**Progresso:** Testando e praticando algumas tags e propriedades.
+
+**Pensamentos:** Continuar o resto amanhã.
+
+**links do projeto:** Nenhum projeto hoje.
