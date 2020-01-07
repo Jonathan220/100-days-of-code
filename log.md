@@ -177,3 +177,11 @@
 **Pensamentos:** Continuar o resto amanhã.
 
 **links do projeto:** Nenhum projeto hoje.
+
+### Dia 23: 07 de janeiro de 2020 ###
+
+**Progresso:** Praticando mais construção de formulário e um pouco de flexbox.
+
+**Pensamentos:** Procurar terminar estas práticas para poder terminar os meus projetos.
+
+**links do projeto:** Nenhum projeto hoje.
