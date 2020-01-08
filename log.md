@@ -185,3 +185,11 @@
 **Pensamentos:** Procurar terminar estas práticas para poder terminar os meus projetos.
 
 **links do projeto:** Nenhum projeto hoje.
+
+### Dia 24: 08 de janeiro de 2020 ###
+
+**Progresso:** praticando mais construção de formulário.
+
+**Pensamentos:** Próximos passo praticar gradientes.
+
+**links do projeto:** Nenhum projeto hoje.
