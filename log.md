@@ -190,6 +190,14 @@
 
 **Progresso:** praticando mais construção de formulário.
 
-**Pensamentos:** Próximos passo praticar gradientes.
+**Pensamentos:** Próximo passo praticar gradientes.
+
+**links do projeto:** Nenhum projeto hoje.
+
+### dia 25: 09 de janeiro de 2020 ###
+
+**Progresso:** praticando gradientes e construção de menu.
+
+**Pensamentos:** Vou começar um processo de praticar alguns tópicos do site w3schools.
 
 **links do projeto:** Nenhum projeto hoje.
