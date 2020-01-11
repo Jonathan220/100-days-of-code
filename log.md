@@ -194,10 +194,18 @@
 
 **links do projeto:** Nenhum projeto hoje.
 
-### dia 25: 09 de janeiro de 2020 ###
+### Dia 25: 09 de janeiro de 2020 ###
 
 **Progresso:** praticando gradientes e construção de menu.
 
 **Pensamentos:** Vou começar um processo de praticar alguns tópicos do site w3schools.
+
+**links do projeto:** Nenhum projeto hoje.
+
+### Dia 26: 11 de janeiro de 2020 ###
+
+**Progressso:** Construindo mais alguns menus.
+
+**Pensamentos:** Estou me acostumando a fazer menus.
 
 **links do projeto:** Nenhum projeto hoje.
