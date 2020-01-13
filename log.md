@@ -209,3 +209,11 @@
 **Pensamentos:** Estou me acostumando a fazer menus.
 
 **links do projeto:** Nenhum projeto hoje.
+
+### Dia 27: 13 de janeiro de 2020 ###
+
+**Progresso:** Construindo menus mais complexos com dropdown.
+
+**Pensamentos:** Estou gostando de contruir menus. Agora só falta praticar com os videos na internet.
+
+**links do projeto:** Nenhum projeto hoje.
