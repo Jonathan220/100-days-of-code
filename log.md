@@ -217,3 +217,11 @@
 **Pensamentos:** Estou gostando de contruir menus. Agora só falta praticar com os videos na internet.
 
 **links do projeto:** Nenhum projeto hoje.
+
+### Dia 28: 14 de janeiro de 2020 ###
+
+**Progresso:** Construção de um novo menu drop-down.
+
+**Pensamentos:** Finalmente terminei minha prática na construção de menus web.
+
+**links do projeto:** [Menu drop down](https://github.com/Jonathan220/menu-dropdown).
