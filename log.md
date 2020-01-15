@@ -225,3 +225,11 @@
 **Pensamentos:** Finalmente terminei minha prática na construção de menus web.
 
 **links do projeto:** [Menu drop down](https://github.com/Jonathan220/menu-dropdown).
+
+### Dia 29: 16 de janeiro de 2020 ###
+
+**Progresso:** Um pouco de prática de flex box e trabalhando no projeto [página web 02](https://github.com/Jonathan220/pagina-web-02).
+
+**Pensamentos:** Vou construir um site com o uso do flexbox.
+
+**links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
