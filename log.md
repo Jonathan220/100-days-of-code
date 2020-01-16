@@ -234,7 +234,7 @@
 
 **links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
 
-### Dia 29: 16 de janeiro de 2020 ###
+### Dia 30: 16 de janeiro de 2020 ###
 
 **Progresso:** Trabalhando um pouco no projeto [página web 02](https://github.com/Jonathan220/pagina-web-02).
 
