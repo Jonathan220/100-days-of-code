@@ -241,3 +241,11 @@
 **Pensamentos:** Aos poucos estou construindo o site de maneira bem estruturada, como eu queria a bastante tempo.
 
 **Links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
+
+### Dia 31: 18 de janeiro de 2020 ###
+
+**Progresso:** Trabalhando no projeto [página web 02](https://github.com/Jonathan220/pagina-web-02).
+
+**Pensamentos:** Trabalhei bastante com grid hoje e aprendi bastante sobre o mesmo.
+
+**Links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
