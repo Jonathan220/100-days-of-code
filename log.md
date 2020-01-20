@@ -249,3 +249,11 @@
 **Pensamentos:** Trabalhei bastante com grid hoje e aprendi bastante sobre o mesmo.
 
 **Links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
+
+### Dia 32: 20 de janeiro de 2020 ###
+
+**Progresso:** Ajustando algumas estruturas do projeto [página web 02](https://github.com/Jonathan220/pagina-web-02).
+
+**Pensamentos:** hoje trabalhei pouco e tenho que aprender sobre background de imagens.
+
+**links do projeto:** [página web 02](https://github.com/Jonathan220/pagina-web-02).
